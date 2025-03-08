@@ -1,0 +1,9 @@
+{
+    "Test Faction": {
+        "Leader": "Faction Leader",
+        "workers": [
+            "Workers"
+        ],
+        "description": "description"
+    }
+}

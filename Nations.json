@@ -1,0 +1,9 @@
+{
+    "Test Nation": {
+        "Leader": "Leader User ID",
+        "citizen": [
+            "citizen"
+        ],
+        "description": "description"
+    }
+}
